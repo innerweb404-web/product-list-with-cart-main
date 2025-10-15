@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/product-list-with-cart-main/', // <-- add this line
 })
